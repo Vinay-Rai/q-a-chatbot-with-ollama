@@ -32,7 +32,7 @@ This project demonstrates how to create a chatbot interface using local Large La
 
 ```bash
 📦 enhanced-qa-chatbot
- ┣ 📜 app.py
+ ┣ 📜 ollama_app.py
  ┣ 📜 .env
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
